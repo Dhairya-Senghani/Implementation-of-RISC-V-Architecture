@@ -1,9 +1,9 @@
-# Implementation-of-RISC-V-Architecture
+# Implementation-of-RISC-V-Pipelined-Architecture
 ![lnkd_img](https://github.com/Dhairya-Senghani/Implementation-of-RISC-V-Architecture/assets/163739270/e4ab65c2-6614-4728-b7a6-54245dda2d61)
 ![instr_formate_main](https://github.com/Dhairya-Senghani/Implementation-of-RISC-V-Architecture/assets/163739270/c9613b12-b496-4efa-b943-6dc5c7425754)
 ![instr_formate](https://github.com/Dhairya-Senghani/Implementation-of-RISC-V-Architecture/assets/163739270/90729ef8-e8a8-4d3d-80f4-8b770f7480dc)
 
-# Assembly programm to add all the elements of an array store in to the memory :
+# Assembly Programm to Add All the Elements of an Array Store in to the Memory :
 ![Screenshot 2024-06-24 073149](https://github.com/Dhairya-Senghani/Implementation-of-RISC-V-Architecture/assets/163739270/32bcb63e-cdd8-4bd8-8221-907cdac2a34f)
 
 # Generated Hex Code:
