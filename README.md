@@ -10,9 +10,9 @@ add    t1, zero, zero    # Address register for Data Memory
 add    t2, zero, zero    # Data Register for Data Memory
 
 again_store:
-beq   a0, t0, end_store  # if i >= size, break
-add zero, zero, zero     # Stall in pipelining
-add zero, zero, zero     # Stall in pipelining
+beq   a0, t0, end_store  # if i >= size, break\n
+add zero, zero, zero     # Stall in pipelining\n
+add zero, zero, zero     # Stall in pipelining\n
 addi   t2, t2, 0x1   
 sw    t2, 0x0(t1)        # Dereference address to get integer
 addi  t0, t0, 1          # Increment the iterator
